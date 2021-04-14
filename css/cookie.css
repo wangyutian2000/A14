@@ -1,0 +1,14 @@
+footer p{
+    color:black;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+}
+footer p a{
+    text-decoration: none;
+    color:blue;
+}
+
+footer p a:hover{
+    color: aqua;
+}
